@@ -8,15 +8,15 @@
     undefined
    * [MemoryGame](https://github.com/OlgaSadova/MemoryGame) - Project repositorie
    ## The Project description: 
-    jhj
+    Many of us fondly remember training our memories playing card matching games when we were children. Many of us also spend a good deal of time online checking out photos of animals and beautiful places. What if an app could combine these pursuits in a challenging and fun game? Frustration. is the solution. An application that combines the brain-training fun of a memory game with high-quality dynamically-updated images in an exciting and challenging game. 
     
    ## Table of content:
-     lkj
+     N/A
    ## Installation:
-     kjh
+     Don't need to be Install.
    ## Where can use it: 
-    klj
-   ## Number of license:  
+    Can use it on all devices.
+   ## Number of license: N/A 
 
    ## Any questions: 
   
